@@ -1,6 +1,6 @@
 {
-  "name": "react-markdown",
-  "version": "9.0.1",
+  "name": "@exdatic/react-markdown",
+  "version": "9.0.1-1",
   "description": "React component to render markdown",
   "license": "MIT",
   "keywords": [
@@ -14,7 +14,7 @@
     "remark",
     "unified"
   ],
-  "repository": "remarkjs/react-markdown",
+  "repository": "@exdatic/react-markdown",
   "bugs": "https://github.com/remarkjs/react-markdown/issues",
   "funding": {
     "type": "opencollective",
